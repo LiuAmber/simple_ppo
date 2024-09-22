@@ -1,0 +1,11 @@
+gym==0.25.2
+torch
+numpy==1.24.0
+matplotlib
+moviepy
+swig
+box2d-py
+# Box2D
+# box2d 
+# box2d-kengz
+gym[box2d]
